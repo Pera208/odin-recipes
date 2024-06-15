@@ -1,4 +1,4 @@
 # odin-recipes
 
-The odin project project
-Making a recipe project
+An odin project project  
+There is spaghetti, basil chicken and miso soup
